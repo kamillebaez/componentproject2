@@ -1,0 +1,22 @@
+/* Color theme hex: #d5f5f7 */
+/* Fonts used: in the Header the font "Impact" was used and in the body "Verdana" */
+img{
+    height: 210px;
+    width: 200px;
+}
+.mapa{
+    width: 900px;
+    height: 750px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    font-family: Impact;
+    font-size: 50px;
+    text-align: center;
+}
+body{
+    font-family:Verdana;
+    background-color: #d5f5f7;
+}
